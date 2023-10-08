@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Password Hack</string>
+    <string name="rules">The password consists of numbers. Enter a number and you will be told whether the entered number is less or more than the desired one.</string>
+</resources>
